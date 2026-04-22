@@ -1,0 +1,4 @@
+name = "csreal-website"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+account_id = "20e97d00c745d9dc37f09cf75ee6aa10"
